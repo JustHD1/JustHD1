@@ -6,6 +6,6 @@
 
 <h2> Certifications </h2>
 -[Comptia A+]
--[Comptia Network+]
--[ITIL Foundation Certificate in Service Management]
+-<b>[Comptia Network+]</b>
+-<b>[ITIL Foundation Certificate in Service Management]</b>
 
