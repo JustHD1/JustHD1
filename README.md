@@ -5,7 +5,7 @@
 - <b>[Active Directory Home Lab]</b>
 
 <h2> Certifications </h2>
--[Comptia A+]
+-<b>[Comptia A+]</b>
 -<b>[Comptia Network+]</b>
 -<b>[ITIL Foundation Certificate in Service Management]</b>
 
