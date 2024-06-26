@@ -2,8 +2,8 @@
 
 <h2>CyberSecurity Projects:</h2>
 
-- <b>[Active Directory Home Lab]</b>
-
+- <b> Azure/Cloud Projects </b>
+  -[Creating a Live SOC/Honeynet in Azure]
 <h2><ins>Certifications </ins> </h2>
 
 -[Comptia A+]
